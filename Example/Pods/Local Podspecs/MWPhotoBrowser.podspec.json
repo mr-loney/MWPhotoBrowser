@@ -18,11 +18,10 @@
   },
   "social_media_url": "https://twitter.com/mwaterfall",
   "source": {
-    "git": "https://github.com/mwaterfall/MWPhotoBrowser.git",
-    "tag": "2.1.2"
+    "git": "https://github.com/mr-loney/MWPhotoBrowser.git"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "9.0"
   },
   "source_files": "Pod/Classes/**/*",
   "resource_bundles": {
@@ -46,8 +45,7 @@
       "~> 2.3"
     ],
     "SDWebImage": [
-      "~> 3.7",
-      "!= 3.7.2"
+      "~> 5.8.1"
     ]
   }
 }
